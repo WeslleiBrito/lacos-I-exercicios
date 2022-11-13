@@ -27,4 +27,4 @@ function formataValor(valor){
     }
 }
 
-export {formataValor}
+export {formataValor, arredonadaParaCima}
